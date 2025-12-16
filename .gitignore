@@ -3,6 +3,8 @@ target/
 .idea/
 .vscode/
 .qodo/
+.devcontainer/
+.github/
 
 # Logs and temp
 logs/
