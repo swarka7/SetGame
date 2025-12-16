@@ -5,6 +5,7 @@ target/
 .qodo/
 .devcontainer/
 .github/
+bonuses.txt
 
 # Logs and temp
 logs/
