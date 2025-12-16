@@ -1,0 +1,8 @@
+target
+logs
+.git
+.gitignore
+.vscode
+.idea
+.qodo
+*.log
